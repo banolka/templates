@@ -4,6 +4,7 @@ title: Lonsonho  3 Gang
 model: X803A
 image: /assets/images/lonsonho_X803A.jpg
 template: '{"NAME":"Lonsonho X803A","GPIO":[0,0,0,18,17,19,0,0,21,29,22,23,0],"FLAG":0,"BASE":18}' 
+template2: {"NAME":"Lonsonho X803A","GPIO":[0,0,0,18,17,19,0,0,21,157,22,23,0],"FLAG":0,"BASE":18}
 link: https://www.aliexpress.com/item/4000289352430.html
 link2: 
 mlink: 
